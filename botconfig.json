@@ -1,0 +1,69 @@
+{
+    "bot_setup": {
+        "prefix": "?",
+        "token": "OTM1OTA3MjY0MTUyMzM4NDUy.YfFdkA.Mn_bGhKiXoFazClulEMXKzq-3GI",
+        "copyright": "© 2021-2022 Weakzzz",
+        "bot_status": "online",
+        "bot_game_type": "PLAYING",
+        "bot_game": "holycheats.cc",
+        "main_embed_color": "#ff0000",
+        "green_embed_color": "#00FF00",
+        "debug_mode": false
+    },
+
+    "module_toggles": {
+        "welcome_leave_channel": true,
+        "join_role": true,
+        "logs": true,
+        "moderation_commands": true,
+        "mod_logs": true,
+        "giveaway_module": true,
+        "fun_commands": false,
+        "utility_commands": true,
+        "ticket_system": false,
+        "filter_lang_links": false,
+        "member_count_channel": true
+    },
+
+    "channel_setup": {
+        "welcome_channel": "935905162193682492",
+        "general_logs_channel": "934794052233232474",
+        "kick_logs_channel": "935905549684461578",
+        "ban_logs_channel": "935905574154039357",
+        "warning_logs_channel": "935905610489278524",
+        "mute_logs_channel": "935905645524299806",
+        "command_logs_channel": "934794052233232474",
+        "ticket_category": "",
+        "leave_channel": "935905377046904882",
+        "admin_logs_channel": "935905689870692462"
+    },
+
+    "join_roles": {
+        "role": ""
+    },
+
+    "ticket_system": {
+        "support_role": "913166097207939177",
+        "auto_reply": true,
+        "auto_reply_message": "Hey, \nDanke, dass du ein Ticket eröffnet hast. Es wird so schnell wie möglich ein Teammitglied bei dir melden!"
+    },
+
+    "moderation_module": {
+        "mute_role": "921429638478188584",
+        "DM_kicked_user": false,
+        "DM_banned_user": false,
+        "DM_muted_user": false,
+        "DM_warned_user": false
+    },
+
+    "filter_module": {
+        "language_bypass_role": "913166097207939177",
+        "link_bypass_role": "913166097207939177",
+        "filter_links": ["bing.com", "example.com"],
+        "filter_words": ["fuck", "words", "go", "here", "see docs for easy example!"]
+    },
+
+    "member_count_module": {
+        "member_count_channel": "935906708771991552"
+    }
+}
